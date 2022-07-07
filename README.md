@@ -3619,7 +3619,7 @@ You can download the PDF and Epub version of this repository from the latest run
      3. **Changes are made with pure functions:** To specify how the state tree is transformed by actions, you write reducers. Reducers are just pure functions that take the previous state and an action as parameters, and return the next state.
 
 
-   **[⬆ Back to Top](#table-of-contents)**
+   **[⬆ Back to Top](#table-of-contents)***
     
 155. ### What are the downsides of Redux compared to Flux?
 
